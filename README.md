@@ -31,7 +31,7 @@ https://www.zebra.com/content/dam/zebra_new_ia/en-us/manuals/printers/industrial
 
 # 電文仕様
 
-Zebra プリンタは送信コマンドによって、電文フォーマットが異なる。本書では数多くあるコマンド形式の中で最も利用されるZPLとSGDについて記載をする。
+Zebra プリンタは送信コマンド方式によって、電文フォーマットが異なる。本書では数多くあるコマンド形式の中で最も利用されるZPLとSGDについて記載をする。
 
 <br>
 
