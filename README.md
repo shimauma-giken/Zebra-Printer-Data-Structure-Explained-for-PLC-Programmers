@@ -18,9 +18,9 @@
 
 <br>
 
-RS-232Cについてはユーザーズ・ガイド等の資料をご参照ください。
+RS-232Cについては各機種のユーザーズ・ガイド等の資料をご参照ください。
 
-ZT610 Users Guide  
+> 参考、ZT610 Users Guide  
 https://www.zebra.com/content/dam/zebra_new_ia/en-us/manuals/printers/industrial/zt600/zt600-ug-en.pdf
 
 
